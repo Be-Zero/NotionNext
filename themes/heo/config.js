@@ -36,9 +36,9 @@ const CONFIG = {
   HEO_HERO_TITLE_1: 'AI Coding',
   HEO_HERO_TITLE_2: 'Recording and Thinking',
   HEO_HERO_TITLE_3: 'BeZer0.cn',
-  HEO_HERO_TITLE_4: '',
-  HEO_HERO_TITLE_5: '',
-  HEO_HERO_TITLE_LINK: '',
+  HEO_HERO_TITLE_4: '新版博客上线啦',
+  HEO_HERO_TITLE_5: '欢迎欣赏个人摄影作品集～',
+  HEO_HERO_TITLE_LINK: 'https://blog.bezer0.cn/plog',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
