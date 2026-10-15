@@ -81,132 +81,132 @@ const CONFIG = {
     {
       title_1: 'Photoshop',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg',
-      color_1: '#ffffff',
+      color_1: '#2b2235',
       title_2: 'Lightroom',
       img_2: 'https://api.iconify.design/logos:adobe-lightroom.svg',
-      color_2: '#ffffff'
+      color_2: '#24332f'
     },
     {
       title_1: 'Premiere Pro',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg',
-      color_1: '#ffffff',
+      color_1: '#23303b',
       title_2: 'After Effects',
       img_2: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg',
-      color_2: '#ffffff'
+      color_2: '#342a20'
     },
     {
       title_1: 'DaVinci Resolve',
-      img_1: 'https://cdn.simpleicons.org/davinciresolve',
-      color_1: '#ffffff',
+      img_1: 'https://cdn.simpleicons.org/davinciresolve/c8d5e2',
+      color_1: '#45301f',
       title_2: 'Jellyfin',
-      img_2: 'https://api.iconify.design/simple-icons:jellyfin.svg',
-      color_2: '#ffffff'
+      img_2: 'https://cdn.simpleicons.org/jellyfin/f5f5f5',
+      color_2: '#263c3a'
     },
 
     // 开发环境与编程语言
     {
       title_1: 'Visual Studio Code',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg',
-      color_1: '#1f2937',
+      color_1: '#2b2438',
       title_2: 'IntelliJ IDEA',
       img_2: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg',
-      color_2: '#1f2937'
+      color_2: '#1f3440'
     },
     {
       title_1: 'Android Studio',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg',
-      color_1: '#1f2937',
+      color_1: '#2f2430',
       title_2: 'DevEco Studio',
       img_2: 'https://commons.wikimedia.org/wiki/Special:FilePath/Devecostudioicon.png',
-      color_2: '#ffffff'
+      color_2: '#3c3024'
     },
     {
       title_1: 'Xcode',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg',
-      color_1: '#1f2937',
+      color_1: '#3a2924',
       title_2: 'Swift',
       img_2: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg',
-      color_2: '#1f2937'
+      color_2: '#26333d'
     },
     {
       title_1: 'Python',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg',
-      color_1: '#ffffff',
+      color_1: '#2f2528',
       title_2: 'Java',
       img_2: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg',
-      color_2: '#ed8b00'
+      color_2: '#2a2536'
     },
 
     // AI 与内容工具
     {
       title_1: 'ChatGPT',
-      img_1: 'https://api.iconify.design/arcticons:openai-chatgpt.svg',
-      color_1: '#74aa9c',
+      img_1: 'https://api.iconify.design/arcticons:openai-chatgpt.svg?color=%23f5f5f5',
+      color_1: '#263b32',
       title_2: 'Codex',
-      img_2: 'https://api.iconify.design/logos:codex.svg',
-      color_2: '#ffffff'
+      img_2: 'https://api.iconify.design/logos:codex-dark.svg',
+      color_2: '#35263d'
     },
     {
       title_1: 'DeepSeek',
-      img_1: 'https://api.iconify.design/simple-icons:deepseek.svg',
-      color_1: '#ffffff',
+      img_1: 'https://cdn.simpleicons.org/deepseek/f5f5f5',
+      color_1: '#252f44',
       title_2: 'Notion',
-      img_2: 'https://cdn.simpleicons.org/notion',
-      color_2: '#ffffff'
+      img_2: 'https://cdn.simpleicons.org/notion/f5f5f5',
+      color_2: '#3a2b25'
     },
 
     // 办公、浏览器与终端工具
     {
       title_1: 'Google Chrome',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg',
-      color_1: '#1f2937',
+      color_1: '#263238',
       title_2: 'Microsoft Edge',
       img_2: 'https://api.iconify.design/logos:microsoft-edge.svg',
-      color_2: '#ffffff'
+      color_2: '#3a292b'
     },
     {
       title_1: 'Microsoft Outlook',
       img_1: 'https://api.iconify.design/vscode-icons:file-type-outlook.svg',
-      color_1: '#ffffff',
+      color_1: '#3b2a22',
       title_2: 'iTerm2',
-      img_2: 'https://cdn.simpleicons.org/iterm2',
-      color_2: '#ffffff'
+      img_2: 'https://cdn.simpleicons.org/iterm2/f5f5f5',
+      color_2: '#2f2a3a'
     },
 
     // 工程协作、部署与网络工具
     {
       title_1: 'Git',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg',
-      color_1: '#ffffff',
+      color_1: '#25343b',
       title_2: 'GitHub',
-      img_2: 'https://cdn.simpleicons.org/github',
-      color_2: '#f0f0f0'
+      img_2: 'https://cdn.simpleicons.org/github/f5f5f5',
+      color_2: '#31262b'
     },
     {
       title_1: 'Docker',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg',
-      color_1: '#1f2937',
+      color_1: '#2b263d',
       title_2: 'Vercel',
-      img_2: 'https://cdn.simpleicons.org/vercel',
-      color_2: '#ffffff'
+      img_2: 'https://cdn.simpleicons.org/vercel/f5f5f5',
+      color_2: '#25312e'
     },
     {
       title_1: 'Postman',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg',
-      color_1: '#1f2937',
+      color_1: '#27343a',
       title_2: 'Charles',
-      img_2: 'https://cdn.simpleicons.org/charles',
-      color_2: '#1f2937'
+      img_2: 'https://cdn.simpleicons.org/charles/f5f5f5',
+      color_2: '#362c22'
     },
 
     // 自托管与娱乐
     {
       title_1: 'AList',
-      img_1: 'https://api.iconify.design/simple-icons:alist.svg',
-      color_1: '#ffffff',
+      img_1: 'https://cdn.simpleicons.org/alist/f5f5f5',
+      color_1: '#26372f',
       title_2: 'Dota 2',
-      img_2: 'https://api.iconify.design/simple-icons:dota2.svg',
-      color_2: '#ffffff'
+      img_2: 'https://cdn.simpleicons.org/dota2/f5f5f5',
+      color_2: '#3c272d'
     }
   ],
 
