@@ -81,23 +81,23 @@ const CONFIG = {
     {
       title_1: 'Photoshop',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg',
-      color_1: '#31a8ff',
+      color_1: '#ffffff',
       title_2: 'Lightroom',
       img_2: 'https://api.iconify.design/logos:adobe-lightroom.svg',
-      color_2: '#31a8ff'
+      color_2: '#ffffff'
     },
     {
       title_1: 'Premiere Pro',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/premierepro/premierepro-original.svg',
-      color_1: '#9999ff',
+      color_1: '#ffffff',
       title_2: 'After Effects',
       img_2: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg',
-      color_2: '#9999ff'
+      color_2: '#ffffff'
     },
     {
       title_1: 'DaVinci Resolve',
       img_1: 'https://cdn.simpleicons.org/davinciresolve',
-      color_1: '#233a51',
+      color_1: '#ffffff',
       title_2: 'Jellyfin',
       img_2: 'https://api.iconify.design/simple-icons:jellyfin.svg',
       color_2: '#ffffff'
@@ -107,15 +107,15 @@ const CONFIG = {
     {
       title_1: 'Visual Studio Code',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg',
-      color_1: '#007acc',
+      color_1: '#1f2937',
       title_2: 'IntelliJ IDEA',
       img_2: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg',
-      color_2: '#fe315d'
+      color_2: '#1f2937'
     },
     {
       title_1: 'Android Studio',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg',
-      color_1: '#3ddc84',
+      color_1: '#1f2937',
       title_2: 'DevEco Studio',
       img_2: 'https://commons.wikimedia.org/wiki/Special:FilePath/Devecostudioicon.png',
       color_2: '#ffffff'
@@ -123,15 +123,15 @@ const CONFIG = {
     {
       title_1: 'Xcode',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg',
-      color_1: '#147efb',
+      color_1: '#1f2937',
       title_2: 'Swift',
       img_2: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg',
-      color_2: '#f05138'
+      color_2: '#1f2937'
     },
     {
       title_1: 'Python',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg',
-      color_1: '#3776ab',
+      color_1: '#ffffff',
       title_2: 'Java',
       img_2: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg',
       color_2: '#ed8b00'
@@ -159,10 +159,10 @@ const CONFIG = {
     {
       title_1: 'Google Chrome',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chrome/chrome-original.svg',
-      color_1: '#ffffff',
+      color_1: '#1f2937',
       title_2: 'Microsoft Edge',
       img_2: 'https://api.iconify.design/logos:microsoft-edge.svg',
-      color_2: '#0078d7'
+      color_2: '#ffffff'
     },
     {
       title_1: 'Microsoft Outlook',
@@ -177,7 +177,7 @@ const CONFIG = {
     {
       title_1: 'Git',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg',
-      color_1: '#f05032',
+      color_1: '#ffffff',
       title_2: 'GitHub',
       img_2: 'https://cdn.simpleicons.org/github',
       color_2: '#f0f0f0'
@@ -185,7 +185,7 @@ const CONFIG = {
     {
       title_1: 'Docker',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg',
-      color_1: '#2496ed',
+      color_1: '#1f2937',
       title_2: 'Vercel',
       img_2: 'https://cdn.simpleicons.org/vercel',
       color_2: '#ffffff'
@@ -193,10 +193,10 @@ const CONFIG = {
     {
       title_1: 'Postman',
       img_1: 'https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg',
-      color_1: '#ff6c37',
+      color_1: '#1f2937',
       title_2: 'Charles',
       img_2: 'https://cdn.simpleicons.org/charles',
-      color_2: '#ffffff'
+      color_2: '#1f2937'
     },
 
     // 自托管与娱乐
