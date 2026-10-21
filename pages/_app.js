@@ -10,6 +10,7 @@ import useAdjustStyle from '@/hooks/useAdjustStyle'
 import { GlobalContextProvider } from '@/lib/global'
 import { getBaseLayoutByTheme } from '@/themes/theme'
 import { useRouter } from 'next/router'
+import { SpeedInsights } from '@vercel/speed-insights/next'
 import { useCallback, useEffect, useMemo } from 'react'
 import { getQueryParam } from '../lib/utils'
 import ErrorHandler from '@/lib/utils/errorHandler'
@@ -102,6 +103,7 @@ const MyApp = ({ Component, pageProps }) => {
       ) : (
         content
       )}
+      <SpeedInsights />
     </>
   )
 }
